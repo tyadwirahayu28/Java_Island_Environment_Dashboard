@@ -50,11 +50,11 @@ Lingkungan hidup yang sehat berperan penting dalam mendukung produktivitas dan k
 
 ## 🖼️ Preview Dashboard
 
-[![Screenshot 1](HalamanUtama.png)](HalamanUtama.png) Halaman Utama
-[![Screenshot 2](Overview.png)](Overview.png) Overview
-[![Screenshot 3](PencemaranAir&Penyakit.png)](PencemaranAir&Penyakit.png) Pencemaran Air & Penyakit
-[![Screenshot 4](PencemaranUdara.png)](PencemaranUdara.png) Pencemaran Udara
-[![Screenshot 5](Sampah&SaranaDinasKebersihan.png)](Sampah&SaranaDinasKebersihan.png) Sampah & Sarana Dinas Kebersihan
+Halaman Utama [![Screenshot 1](HalamanUtama.png)](HalamanUtama.png) 
+Overview [![Screenshot 2](Overview.png)](Overview.png) 
+Pencemaran Air & Penyakit [![Screenshot 3](PencemaranAir&Penyakit.png)](PencemaranAir&Penyakit.png) 
+Pencemaran Udara [![Screenshot 4](PencemaranUdara.png)](PencemaranUdara.png) 
+Sampah & Sarana Dinas Kebersihan [![Screenshot 5](Sampah&SaranaDinasKebersihan.png)](Sampah&SaranaDinasKebersihan.png) 
 
 
 ## 🔗 Referensi dan Dokumentasi Tambahan
